@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This study analyzes crash outcomes using data from the Fatality Analysis Reporting System (FARS) to compare motorcycles and passenger cars under controlled conditions.
+This study analyzes crash outcomes using data from the Fatality Analysis Reporting System (FARS *2023) to compare motorcycles and passenger cars under controlled conditions.
 
 A driver-level dataset was constructed with the following filters:
 - No alcohol involvement
